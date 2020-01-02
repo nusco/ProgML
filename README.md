@@ -1,6 +1,7 @@
 ## Programming Machine Learning
 
-![Programming Machine Learning book](pplearn.jpg)
+
+<img src="pplearn.jpg" width="200"/>
 
 Hi there! I'm Paolo Perrotta, and this is the companion site to [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains all the explanations that I couldn't cram in the book.
 
