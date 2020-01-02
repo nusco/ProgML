@@ -11,6 +11,6 @@ As of January 2020, I'm still working on the main text of the book, so this site
 
 I wrote additional information as a series of Medium posts:
 
-* *Work In Progress:* _Of Gradients and Matrices_ explains how I wrote the code for a multi-dimensional `gradient()` function.
-* *Work In Progress: * _The Problem with Accuracy_ tells you why accuracy can be a misleading metric in machine learning, and it gives you a couple of alternatives.
+* **Work In Progress:** _Of Gradients and Matrices_ explains how I wrote the code for a multi-dimensional `gradient()` function.
+* **Work In Progress:** _The Problem with Accuracy_ tells you why accuracy can be a misleading metric in machine learning, and it gives you a couple of alternatives.
 * …
