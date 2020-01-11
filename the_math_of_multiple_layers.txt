@@ -1,0 +1,4 @@
+mathematical side of neural networks
+
+
+A single-layer perceptron is essentially a linear combination (plus an activation function)–so the functions it finds are linear: lines, planes, and so on. If you want a "curvy" function, then you need to have higher grade polynomials, where inputs are squared, or elevated to higher powers. By having multiple layers, you make the network able to generate these higher-grade functions. Makes examples of first-grade and higher-grade polynomials. To get power elevations, you need to recombine the outputs of one layer through more layers. This might also be a good place to mention polynomial inputs, as suggested in another tag

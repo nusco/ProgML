@@ -6,4 +6,5 @@ Here are all the explanations that I couldn't cram in the book as a series of Me
 
 * **Work In Progress:** That multi-dimensional `gradient()` function in the _Hyperspace!_ chapter is a tough one-liner. _Of Gradients and Matrices_ explains how I wrote it.
 * **Work In Progress:** Accuracy can be a misleading metric in ML. _The Problem with Accuracy_ tells you why, and it gives you a couple of alternatives.
+* **Work In Progress:** Grokking the Cross Entropy Loss.
 * …
