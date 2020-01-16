@@ -1,12 +1,5 @@
 <img src="pplearn.jpg" width="200" align="left"/>
 
-Hi there! I'm Paolo Perrotta, and this is the companion site to [Programming Machine Learning](https://pragprog.com/book/pplearn).
+Hi there! I'm Paolo Perrotta, and this is the companion site to [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains all the explanations that I couldn't cram in the book.
 
-(WORK IN PROGRESS WARNING FOR BETA READERS)
-
-Here are all the explanations that I couldn't cram in the book as a series of Medium posts. _Some of these are still work in progress, because I started working on this site as I completed the book. Subscribe to my [Medium channel](https://medium.com/@nusco) if you want to be notified when I publish a new one._
-
-* **Work In Progress:** That multi-dimensional `gradient()` function in the _Hyperspace!_ chapter is a tough one-liner. _Of Gradients and Matrices_ explains how I wrote it.
-* **Work In Progress:** Accuracy can be a misleading metric in ML. _The Problem with Accuracy_ tells you why, and it gives you a couple of alternatives.
-* **Work In Progress:** Grokking the Cross Entropy Loss.
-* …
+_If you came here, chances are you followed a link from the book's latest beta. Here's the plan (as of January 16): I just started working on this site, right after sending the book through the final production stages. The book should take a couple of months to get to the printers, and during that time, I'll write the missing content on Medium, and link it from this page. Please come back later! (And mail me at paolo.nusco.perrotta@gmail.com if you need to contact me in the meantime.)_
