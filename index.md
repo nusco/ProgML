@@ -1,4 +1,4 @@
-<img src="pplearn.jpg" width="200" align="left"/>
+<img src="pplearn.jpg" width="200" align="center"/>
 
 Hi there! I'm Paolo Perrotta, and this is the companion site to [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains all the explanations that I couldn't cram in the book.
 

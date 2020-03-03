@@ -10,3 +10,6 @@ github_username:  nusco
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-slate
+
+featured-image: pplearn.jpg
+#featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
