@@ -2,7 +2,7 @@ title: ProgML
 author: Paolo Perrotta
 email: paolo.perrotta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A companion site to Programming Machine Learning.
+  A companion site to “Programming Machine Learning”
 
 # social links
 twitter_username: nusco
@@ -10,6 +10,3 @@ github_username:  nusco
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-slate
-
-featured-image: pplearn.jpg
-#featured-image-alt: Mike the Blogger speaking at Times Square, New York City, New York
