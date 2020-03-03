@@ -1,5 +1,10 @@
-<img src="pplearn.jpg" width="200" align="center"/>
+Hi there! I'm Paolo Perrotta, and this is the companion site to my book [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains links to a few explanations that were too long to fit in the book.
 
-Hi there! I'm Paolo Perrotta, and this is the companion site to [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains all the explanations that I couldn't cram in the book.
+_As of February 2020, I'm still working on filling in this site. If you're looking for an article that isn't here yet, but it's referenced in the book, then please come back later! (And mail me at paolo.nusco.perrotta@gmail.com if you need to contact me in the meantime.)_
 
-_If you came here, chances are you followed a link from the book's latest beta. Here's the plan (as of January 16): I just sent the book to production and started working on this site. The book should take a couple of months to get to the printers. During that time, I'll write the missing content and link it from this page. Please come back later! (And mail me at paolo.nusco.perrotta@gmail.com if you need to contact me in the meantime.)_
+* TODO: _Of Gradients and Matrices_
+* TODO: _The Problem with Accuracy_
+* TODO: _Grokking the Cross-Entropy Loss_
+* TODO: _Killer Combo: Softmax and Cross Entropy_
+* TODO: _The Math of Multiple Layers_
+* TODO: _Convolutional Neural Networks in Plain English_
