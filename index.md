@@ -1,6 +1,6 @@
 Hi there! I'm Paolo Perrotta, and this is the companion site to my book [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains links to a few explanations that were too long to fit in the book.
 
-_As of March/April 2020, I'm still working on these articles (and getting through an extended COVID 19-related lockdown in Italy). If you're looking for an article that isn't here yet, but is referenced in the book, then please come back later! (And mail me at paolo.nusco.perrotta@gmail.com if you need to contact me in the meantime.)_
+_Update (April 2020): As probably happened to you, the current COVID-19 situation is making my life complicated–especially so as I live in a heavily hit area in Italy. Be patient if I take longer than I planned to write the articles on this site. A couple are already available below. (Please mail me at paolo.nusco.perrotta@gmail.com if you need to contact me in the meantime.)_
 
 * TODO: _Of Gradients and Matrices_
 * [The Problem with Accuracy](https://medium.com/@nusco/the-problem-with-accuracy-3670891b908e)
