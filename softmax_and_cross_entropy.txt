@@ -1,0 +1,3 @@
+Killer Combo: Softmax and Cross Entropy
+
+show how to derive this combo
