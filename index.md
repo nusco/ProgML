@@ -1,8 +1,8 @@
 Hi there from Paolo Perrotta!
 
-Looking for the Programming Machine Learning book? Go [here for the eBook](https://pragprog.com/book/pplearn/programming-machine-learning) and [here for paper](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09).
+Looking for th book? Go [here](https://pragprog.com/book/pplearn/programming-machine-learning)  for the eBook and [here](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09) for the paper book.
 
-# Articles Referenced in the Book
+## Articles Referenced in the Book
 
 A few explanations that were too long to fit in Programming Machine Learning.
 
@@ -13,7 +13,7 @@ A few explanations that were too long to fit in Programming Machine Learning.
 * Coming Sooner: _The Math of Multiple Layers_
 * Coming Later: _Convolutional Neural Networks in Plain English_
 
-# This Is Machine Learning
+## This Is Machine Learning
 
 A mini-series of Medium posts taken from Chapter 1 of the book.
 
