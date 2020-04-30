@@ -1,6 +1,6 @@
-Hi there! I'm Paolo Perrotta, and this is the companion site to my book [Programming Machine Learning](https://pragprog.com/book/pplearn). It contains links to a few explanations that were too long to fit in the book.
+Hi there from Paolo Perrotta! This site contains a few explanations that were too long to fit in Programming Machine Learning.
 
-If you're looking to buy the book, you'll find it on the [official site](https://pragprog.com/book/pplearn/programming-machine-learning) in eBook form. For the paper book, check out [Amazon.com](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09).
+If you're looking for the book itself, you'll find it on the [official site](https://pragprog.com/book/pplearn/programming-machine-learning) in eBook form. For the paper book, check out [Amazon.com](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09).
 
 # Articles Mentioned in the Book
 
