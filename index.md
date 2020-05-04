@@ -13,8 +13,7 @@ A few explanations that were too long to fit in Programming Machine Learning.
 
 ## This Is Machine Learning
 
-A mini-series of Medium posts taken from Chapter 1 of the book.
+A two-posts series taken from Chapter 1 of the book.
 
 1. [Learning vs. Coding](https://medium.com/@nusco/this-is-machine-learning-part-1-learning-vs-coding-789343df1e30)
-2. Coming on Monday, May 4: _Supervised Learning_
-3. Coming on Tuesday, May 5: _The Math Behind the Magic_
+2. [Supervised Learning](https://medium.com/@nusco/this-is-machine-learning-part-2-supervised-learning-94a0c6f5f33a)
