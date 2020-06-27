@@ -7,7 +7,7 @@ A few explanations that were too long to fit in Programming Machine Learning.
 * [Of Gradients and Matrices](https://medium.com/@nusco/of-gradients-and-matrices-1b19de65e5cd)
 * [The Problem with Accuracy](https://medium.com/@nusco/the-problem-with-accuracy-3670891b908e)
 * [Grokking the Cross Entropy Loss](https://medium.com/@nusco/grokking-the-cross-entropy-loss-cda6eb9ec307)
-* [_Killer Combo: Softmax and Cross Entropy_](https://medium.com/@nusco/killer-combo-softmax-and-cross-entropy-5907442f60ba)
+* [Killer Combo: Softmax and Cross Entropy](https://medium.com/@nusco/killer-combo-softmax-and-cross-entropy-5907442f60ba)
 * Coming Soon: _The Math of Multiple Layers_
 * Coming Later: _Convolutional Neural Networks in Plain English_
 
