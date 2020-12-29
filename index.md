@@ -8,8 +8,8 @@ A few explanations that were too long to fit in Programming Machine Learning.
 * [The Problem with Accuracy](https://medium.com/@nusco/the-problem-with-accuracy-3670891b908e)
 * [Grokking the Cross Entropy Loss](https://medium.com/@nusco/grokking-the-cross-entropy-loss-cda6eb9ec307)
 * [Killer Combo: Softmax and Cross Entropy](https://medium.com/@nusco/killer-combo-softmax-and-cross-entropy-5907442f60ba)
-* Coming Soon: _The Math of Multiple Layers_
-* Coming Later: _Convolutional Neural Networks in Plain English_
+* [Neural Networks Visualized](https://nusco.medium.com/neural-networks-visualized-6cc657f9d7c5) (called “The Math of Multiple Layers” in the book's first printing)
+* Coming Soon: _Convolutional Neural Networks in Plain English_
 
 ## This Is Machine Learning
 
