@@ -17,7 +17,7 @@ These articles contain explanations that didn't fit in the book.
 
 ## This Is Machine Learning
 
-A two-posts series taken from Chapter 1 of the book.
+A two-posts series that covers the same ground as the book's first chapter.
 
 1. [Learning vs. Coding](https://medium.com/@nusco/this-is-machine-learning-part-1-learning-vs-coding-789343df1e30)
 2. [Supervised Learning](https://medium.com/@nusco/this-is-machine-learning-part-2-supervised-learning-94a0c6f5f33a)
