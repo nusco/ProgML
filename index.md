@@ -1,8 +1,12 @@
 Hi there from Paolo Perrotta! If you're looking for the book itself, go [here](https://pragprog.com/book/pplearn/programming-machine-learning)  for the eBook and [here](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09) for the paper book.
 
-## Articles Referenced in the Book
+## Set-Up Instructions
 
-A few explanations that were too long to fit in Programming Machine Learning.
+[Here's how](/setup) you can set up your system to run the book's examples.
+
+## Additional Material
+
+These articles contain explanations that didn't fit in the book.
 
 * [Of Gradients and Matrices](https://medium.com/@nusco/of-gradients-and-matrices-1b19de65e5cd)
 * [The Problem with Accuracy](https://medium.com/@nusco/the-problem-with-accuracy-3670891b908e)
