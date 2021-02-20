@@ -1,4 +1,10 @@
-Hi there from Paolo Perrotta! If you're looking for the book itself, go [here](https://pragprog.com/book/pplearn/programming-machine-learning)  for the eBook and [here](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09) for the paper book.
+Hi there from Paolo Perrotta!
+
+## Book Links
+
+* Go [here](https://pragprog.com/book/pplearn/programming-machine-learning) for the eBook and [here](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09) for the paper book.
+* Questions, feedback, errata? Come to the [forum](https://forum.devtalk.com/tag/book-programming-machine-learning).
+* **Feb-March 2021: Ask Me Anything on my [Author Spotlight thread](https://forum.devtalk.com/t/spotlight-paolo-perrotta-author/6868) and you could win a copy of the book!**
 
 ## Set-Up Instructions
 
