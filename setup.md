@@ -62,11 +62,11 @@ The libraries will stay visible as long as the environment is active. Once you d
  Happy hacking!
 
 <a name="troubleshooting"/>
-## Troubleshooting
+### Troubleshooting
 
-### “Installing Keras didn't install Tensorflow”
+#### “Installing Keras didn't install Tensorflow.”
 
-That happened to some readers even when they installed a specific version of Keras. In that case, try installing Tensorflow separately. If you're using pip:
+Then install a compatible version of Tensorflow. If you're using pip:
 
     pip3 install tensorflow
 
@@ -75,41 +75,38 @@ If you're using Conda:
     conda install tensorflow
 
 
-### “I cannot install Python 3.7 on my Mac”
+#### “I cannot install Python 3.7 on my Mac.”
 
-I have this issue myself, and it's facepalm material: Python 3.7 isn't supported on the latest Apple silicon. You can still install it using [PyEnv](https://github.com/pyenv/pyenv#basic-github-checkout), but the process is error-prone. Your best bet is to use a more recent version of Python and some of the libraries, and tweak some of the later examples in the book.
+I stumbled upon this issue myself: Python 3.7 isn't supported on the latest Apple silicon. You can still install it using [PyEnv](https://github.com/pyenv/pyenv#basic-github-checkout), but the process is error-prone.
 
-Here is how it works:
+Your best bet is to use more recent versions of both Python and the libraries. That will force you to tweak some of the later examples in the book–-but it's a minor change. Here is how it works:
 
-1. Follow the same instructions as above, but use Python 3.8 instead of Python 3.7.
+1. Follow the same instructions as above, but use `Python 3.8` instead of `Python 3.7`.
 
 2. Install these libraries:
 
-    - numpy 1.19.5
-    - matplotlib 3.5
-    - seaborn 0.11.1
-    - scikit-learn 0.24.1
-    - keras 2.6.0
-    - tensorflow 2.6.0
-    - jupyter 1.0.0
+    - `numpy 1.19.5`
+    - `matplotlib 3.5`
+    - `seaborn 0.11.1`
+    - `scikit-learn 0.24.1`
+    - `keras 2.6.0`
+    - `tensorflow 2.6.0`
+    - `jupyter 1.0.0`
 
 3. You shouldn't have any issue running the code in Parts I and II of the book. Once you get to Part III, and you start using Keras, you'll get error messages like this:
 
-    ImportError: cannot import name 'RMSprop' from 'keras.optimizers'
+    `ImportError: cannot import name 'RMSprop' from 'keras.optimizers'`
 
-The issue is that a couple of packages moved around from Keras 2.3 to 2.6. Wherever the code imports from these packages:
+The issue is that a couple of packages moved around from Keras 2.3 to 2.6. Wherever the code imports from these packages…
 
     from keras.optimizers import […]
     from keras.utils import […]
 
-you should use these other packages instead:
+…you should use these other packages instead:
 
     from tensorflow.keras.optimizers import […]
     from tensorflow.keras.utils import […]
 
-That should do the trick.
-
-
-### “I'm still having trouble”
+#### “I'm still having trouble.”
 
 Then please [let me know](https://devtalk.com/books/programming-machine-learning).
