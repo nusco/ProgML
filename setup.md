@@ -2,7 +2,12 @@
 
 _Updated: Jan 27th 2021_
 
-Here's how you can set up your system to run the [examples from the book](https://media.pragprog.com/titles/pplearn/code/pplearn-code.zip). If these instructions don't work for you, please drop me a message on the [book's forum](https://devtalk.com/books/programming-machine-learning). I'll check out the issue and update this page.
+Here's how you can set up your system to run the [examples from the book](https://media.pragprog.com/titles/pplearn/code/pplearn-code.zip).
+
+The situation with Python versions and ML libraries is… complicated. Even if I pinned down all the library versions, these instructions might not work for your specific case. If that happens, please try two things:
+
+* Look at the [Troubleshooting](#troubleshooting) section below.
+* If that doesn't help, please drop me a message on the [book's forum](https://devtalk.com/books/programming-machine-learning). I'll check out the issue and update this page.
 
 ### Installing Globally
 
@@ -52,7 +57,59 @@ Next step, you can install libraries in the active environment:
     conda install keras=2.3.1
     conda install jupyter=1.0.0
 
-The libraries will stay visible as long as the environment is active. Once you deactivate the environment with `conda deactivate`, or close the terminal, the
-libraries are gone. To re-activate the environment and get back the libraries, use `conda activate machinelearning` again.
+The libraries will stay visible as long as the environment is active. Once you deactivate the environment with `conda deactivate`, or close the terminal, the libraries are gone. To re-activate the environment and get back the libraries, use `conda activate machinelearning` again.
 
-Remember to [let me know](https://devtalk.com/books/programming-machine-learning) if these instructions don't work for you. Happy hacking!
+ Happy hacking!
+
+<a name="troubleshooting"/>
+## Troubleshooting
+
+### “Installing Keras didn't install Tensorflow”
+
+That happened to some readers even when they installed a specific version of Keras. In that case, try installing Tensorflow separately. If you're using pip:
+
+    pip3 install tensorflow
+
+If you're using Conda:
+
+    conda install tensorflow
+
+
+### “I cannot install Python 3.7 on my Mac”
+
+I have this issue myself, and it's facepalm material: Python 3.7 isn't supported on the latest Apple silicon. You can still install it using [PyEnv](https://github.com/pyenv/pyenv#basic-github-checkout), but the process is error-prone. Your best bet is to use a more recent version of Python and some of the libraries, and tweak some of the later examples in the book.
+
+Here is how it works:
+
+1. Follow the same instructions as above, but use Python 3.8 instead of Python 3.7.
+
+2. Install these libraries:
+
+    - numpy 1.19.5
+    - matplotlib 3.5
+    - seaborn 0.11.1
+    - scikit-learn 0.24.1
+    - keras 2.6.0
+    - tensorflow 2.6.0
+    - jupyter 1.0.0
+
+3. You shouldn't have any issue running the code in Parts I and II of the book. Once you get to Part III, and you start using Keras, you'll get error messages like this:
+
+    ImportError: cannot import name 'RMSprop' from 'keras.optimizers'
+
+The issue is that a couple of packages moved around from Keras 2.3 to 2.6. Wherever the code imports from these packages:
+
+    from keras.optimizers import […]
+    from keras.utils import […]
+
+you should use these other packages instead:
+
+    from tensorflow.keras.optimizers import […]
+    from tensorflow.keras.utils import […]
+
+That should do the trick.
+
+
+### “I'm still having trouble”
+
+Then please [let me know](https://devtalk.com/books/programming-machine-learning).
