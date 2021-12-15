@@ -20,9 +20,7 @@ These articles contain explanations that didn't fit in the book.
 * [Neural Networks Visualized](https://nusco.medium.com/neural-networks-visualized-6cc657f9d7c5) (called _The Math of Multiple Layers_ in the book's first printing)
 * Coming Soon: _Convolutional Neural Networks in Plain English_
 
-## This Is Machine Learning
+## Other Articles.
 
-A two-posts series that covers the same ground as the book's first chapter.
-
-1. [Learning vs. Coding](https://medium.com/@nusco/this-is-machine-learning-part-1-learning-vs-coding-789343df1e30)
-2. [Supervised Learning](https://medium.com/@nusco/this-is-machine-learning-part-2-supervised-learning-94a0c6f5f33a)
+* _This Is Machine Learning_. A two-posts series that covers the same ground as the book's first chapter. Here are [Part 1: Learning vs. Coding](https://medium.com/@nusco/this-is-machine-learning-part-1-learning-vs-coding-789343df1e30) and [Part 2: Supervised Learning](https://medium.com/@nusco/this-is-machine-learning-part-2-supervised-learning-94a0c6f5f33a).
+* [Google Colab — The First Few Steps](https://medium.com/pragmatic-programmers/google-colab-the-first-few-steps-ee1bdfee3415). A quick introduction to Google Colab, including an optional hands-on section.
