@@ -81,7 +81,7 @@ I stumbled upon this issue myself: Python 3.7 isn't supported on the latest Appl
 
 Your best bet is to use more recent versions of both Python and the libraries. That will force you to tweak some of the later examples in the book–-but it's a minor change. Here is how it works:
 
-1. Follow the same instructions as above, but use `Python 3.8` instead of `Python 3.7`.
+1. Follow the same instructions as above, but use `Python 3.9` instead of `Python 3.7`.
 
 2. Install these libraries:
 
@@ -97,15 +97,13 @@ Your best bet is to use more recent versions of both Python and the libraries. T
 
     `ImportError: cannot import name 'RMSprop' from 'keras.optimizers'`
 
-The issue is that a couple of packages moved around from Keras 2.3 to 2.6. Wherever the code imports from these packages…
+Here is the issue: as Keras progressed from version 2.3 to 2.6, the `keras.*` packages moved to `tensorflow.keras.*`. Wherever you have one of these errors, you can quickly fix it manually. For example, if you get an error on an import such as this one…
 
     from keras.optimizers import […]
-    from keras.utils import […]
 
-…you should use these other packages instead:
+…you should change that line to:
 
     from tensorflow.keras.optimizers import […]
-    from tensorflow.keras.utils import […]
 
 #### “I'm still having trouble.”
 
