@@ -23,7 +23,9 @@ These articles contain explanations that I couldn't fit in the book.
 
 ### Canceled Articles
 
-* **_Convolutional Neural Networks in Plain English_**: After some handwringing and a lot of procrastinating, I resolved not to write this article. I'll remove references to it from future printings of the book. The reason is that I don't feel that the article fits the narrative of the book these days. CNNs have become less relevant since I wrote the book, after Transformer-based architectures took over. If you came here for a good primer to CNNs, I can recommend [this brilliant interactive demo](https://poloclub.github.io/cnn-explainer/) from [Georgia Tech](https://www.gatech.edu/).
+* **_Convolutional Neural Networks in Plain English_**: After some handwringing and a lot of procrastinating, I resolved not to write this article. I'll remove references to it from future printings of the book. I don't feel that the article fits the narrative of the book anymore.
+CNNs have become less relevant since I wrote the book, progressively losing ground to [Transformer](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model))-based architectures.
+If you came here for a good primer to CNNs, I recommend [this brilliant interactive demo](https://poloclub.github.io/cnn-explainer/) from [Georgia Tech](https://www.gatech.edu/).
 
 ### Related Blog Posts
 
