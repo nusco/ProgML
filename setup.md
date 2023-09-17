@@ -107,7 +107,7 @@ Here is the issue: as Keras progressed from version 2.3 to 2.6, the `keras.*` pa
 
 #### “I'm getting an error: `unexpected keyword argument 'projection'`”
 
-* If you're still getting this issue after following the instructions above, then edit the code as suggested in [this forum message](https://forum.devtalk.com/t/programming-machine-learning-some-plot-files-are-throwing-error/83609/5).
+If you're still getting this issue after following the instructions above, then edit the code as suggested in [this forum message](https://forum.devtalk.com/t/programming-machine-learning-some-plot-files-are-throwing-error/83609/5).
 
 #### “I'm still having trouble.”
 
