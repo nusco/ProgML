@@ -1,6 +1,6 @@
 ## Setup Instructions
 
-_Updated: Jan 27th 2021_
+_Updated: Set 17th 2023_
 
 Here's how you can set up your system to run the [examples from the book](https://media.pragprog.com/titles/pplearn/code/pplearn-code.zip).
 
@@ -104,6 +104,10 @@ Here is the issue: as Keras progressed from version 2.3 to 2.6, the `keras.*` pa
 …you should change that line to:
 
     from tensorflow.keras.optimizers import […]
+
+#### “I'm getting an error: `unexpected keyword argument 'projection'`”
+
+* If you're still getting this issue after following the instructions above, then edit the code as suggested in [this forum message](https://forum.devtalk.com/t/programming-machine-learning-some-plot-files-are-throwing-error/83609/5).
 
 #### “I'm still having trouble.”
 
