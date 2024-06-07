@@ -5,9 +5,11 @@ Hi there from Paolo Perrotta!
 * Go [here](https://pragprog.com/titles/pplearn/programming-machine-learning/) for the eBook and [here](https://www.amazon.com/gp/product/1680506609/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ductyp-20&creative=9325&linkCode=as2&creativeASIN=1680506609&linkId=21357a11b4a7bc9be95476540d1d3a09) for the paper book.
 * Questions, feedback, errata? Come to the [forum](https://forum.devtalk.com/tag/book-programming-machine-learning).
 
-## Set-Up Instructions
+## Updated Code Examples
 
-[Here's how](/setup) you can set up your system to run the book's examples.
+The code in the book runs on old-ish versions of Python and its libraries. If you have trouble running the examples, look for updated code and installation instructions on [this GitHub repo](https://github.com/nusco/progml-code). I made a number of small tweaks to the code so that it runs on recent versions of Python, NumPy, etc.
+
+I'll keep the repo updated whenever bitrot sets in. If you _still_ have trouble running the code, please drop me a message on the [book's forum](https://devtalk.com/books/programming-machine-learning). I'll check out the issue and update the repo.
 
 ## Additional Material
 
